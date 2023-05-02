@@ -1,5 +1,8 @@
 # Remninder
 This an app for send a notification at particular time to remind you
+# Packages
+  - Awesome Notifications:
+  - Font Awesome Flutter
 
 ## Getting Started
 
