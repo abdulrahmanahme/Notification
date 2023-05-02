@@ -1,6 +1,5 @@
-# notification
-
-A new Flutter project.
+# Remninder
+This an app for send a notification at particular time to remind you
 
 ## Getting Started
 
